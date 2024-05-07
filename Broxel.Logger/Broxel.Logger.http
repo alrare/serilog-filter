@@ -1,0 +1,6 @@
+@Broxel.Logger_HostAddress = http://localhost:5110
+
+GET {{Broxel.Logger_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
